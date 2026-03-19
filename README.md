@@ -2,7 +2,7 @@
 
 Test JavaScript regular expressions against input text with live match highlighting and capture group display, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/regex-tester
+**Live Demo:** https://file-converter-free.com/en/developer-tools/regex-tester-online
 
 ## How It Works
 
